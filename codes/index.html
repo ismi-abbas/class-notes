@@ -3,32 +3,15 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link
-			href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
-			rel="stylesheet" />
-		<title>Document</title>
+		<title>Hello World HTML</title>
+		<link rel="stylesheet" href="style.css" />
+		<style></style>
 	</head>
-	<style>
-		.container {
-			background-color: #f0f0f0;
-			padding: 20px;
-			margin: 20px;
-			border-radius: 5px;
-			font-family: 'Rubik', sans-serif;
-			font-size: 20px;
-			font-weight: 400;
-		}
-	</style>
 	<body>
-		<script>
-			const div = document.createElement('div')
-			const nestedDiv = document.createElement('div')
-			div.classList.add('container')
-			div.innerHTML = 'Hello, World!'
-			nestedDiv.innerHTML = 'I am a nested div'
-			document.body.appendChild(div).appendChild(nestedDiv)
-		</script>
+		<div class="container">
+			<div id="box-1">Title</div>
+			<div id="box-3">Title</div>
+			<div id="box-2">Title</div>
+		</div>
 	</body>
 </html>

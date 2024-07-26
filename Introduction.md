@@ -26,8 +26,9 @@ Throughout the course, we'll build practical projects to apply these skills.
    - forms
    - table
    - button
-6. HTML Events
-7. Serving HTML(static site)
+6. Html Forms - Creating and submitting a form
+7. HTML Events
+8. Serving HTML(static site)
 
 ### CSS
 

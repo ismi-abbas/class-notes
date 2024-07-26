@@ -2,20 +2,9 @@
 	"editor.formatOnSave": true,
 	"editor.guides.bracketPairs": true,
 	"editor.guides.indentation": true,
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"[javascript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"[typescript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"[css]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"prettier.arrowParens": "avoid",
-	"prettier.singleQuote": true,
+	"prettier.singleQuote": false,
 	"prettier.trailingComma": "all",
 	"prettier.semi": false,
 	"prettier.tabWidth": 2,

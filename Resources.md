@@ -20,7 +20,7 @@
 - Eloquent JavaScript - [View in browser](https://eloquentjavascript.net/)
   - [Exercise Code sandbox](https://eloquentjavascript.net/code/)
 
-### Website
+### Website/Articles
 
 - [MDN Web Docs - Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -28,6 +28,7 @@
 - [MDN WEB Docs - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [MDN WEB Docs - WEB APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [NodeJS Cheat Sheet](https://overapi.com/nodejs)
+- [Javascript Mutability](https://daveceddia.com/react-redux-immutability-guide/#what-is-immutability)
 
 ### Others
 
