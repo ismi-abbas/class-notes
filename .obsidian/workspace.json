@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e44d78401de352d",
+        "id": "3353e3323af5f169",
         "type": "tabs",
         "children": [
           {
-            "id": "d34843b6960200a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "610c35bd9e376f4c",
+            "id": "2585557848ddbe0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "610c35bd9e376f4c",
+  "active": "2585557848ddbe0b",
   "lastOpenFiles": [
     "Introduction.md",
     "Resources.md",
+    "JavaScript.md",
+    "codes/index.html",
+    "codes/index.js",
+    "codes",
     "View.md",
     "snippets.md"
   ]
