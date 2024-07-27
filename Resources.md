@@ -1,6 +1,6 @@
 ## Resources
 
-> This part contain resources that you can refer for this courses
+> This part contain resources that you can refer for this crash courses
 
 ### Software
 

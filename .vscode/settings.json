@@ -11,5 +11,8 @@
 	"prettier.useTabs": true,
 	"prettier.endOfLine": "lf",
 	"prettier.printWidth": 120,
-	"prettier.bracketSameLine": true
+	"prettier.bracketSameLine": true,
+	"[ignore]": {
+		"editor.defaultFormatter": "foxundermoon.shell-format"
+	}
 }
