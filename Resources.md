@@ -24,7 +24,7 @@
 
 - [MDN Web Docs - Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [MDN WEB Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN WEB Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [MDN WEB Docs - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [MDN WEB Docs - WEB APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [NodeJS Cheat Sheet](https://overapi.com/nodejs)
